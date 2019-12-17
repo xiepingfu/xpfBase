@@ -1,0 +1,24 @@
+{
+    "files.associations": {
+        "utils.h": "c",
+        "tokeniz.h": "c",
+        "parser_int.h": "c",
+        "unistd.h": "c",
+        "manager.h": "c",
+        "fcntl.h": "c",
+        "parser.h": "c",
+        "parser_node.h": "c",
+        "vector": "cpp",
+        "array": "c",
+        "string": "c",
+        "string_view": "c",
+        "bptree.h": "c",
+        "optional": "c",
+        "istream": "c",
+        "ostream": "c",
+        "system_error": "c",
+        "tuple": "c",
+        "type_traits": "c",
+        "utility": "c"
+    }
+}
